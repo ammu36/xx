@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786592885283",
+    "firebase_url": "https://stafflocator-bbf07.firebaseio.com",
+    "project_id": "stafflocator-bbf07",
+    "storage_bucket": "stafflocator-bbf07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786592885283:android:df9b73b3b57ec1df5edf96",
+        "android_client_info": {
+          "package_name": "in.allbing.stafflocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786592885283-4tu6f0bhrt7gkm6r6q64j7gnmgv9i317.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.allbing.stafflocator",
+            "certificate_hash": "18486e95f6b8fdf39b135d33bfb71af9507bd9a3"
+          }
+        },
+        {
+          "client_id": "786592885283-ifefpmb3atbr5ec73irlrd6d2t9q587p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntRvzI6tqn7q-spPkYXoY65gWRzjMqXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786592885283-ifefpmb3atbr5ec73irlrd6d2t9q587p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
